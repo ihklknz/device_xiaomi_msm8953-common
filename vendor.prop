@@ -122,6 +122,10 @@ persist.gps.qc_nlp_in_use=1
 persist.loc.nlp_name=com.qualcomm.location 
 ro.gps.agps_provider=1
 
+# Hwui
+debug.hwui.use_hint_manager=true
+debug.hwui.target_cpu_time_percent=30
+
 # LMKD
 ro.config.low_ram=false 
 ro.lmk.log_stats=false
