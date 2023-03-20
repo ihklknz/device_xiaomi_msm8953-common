@@ -375,6 +375,13 @@ vendor/firmware/a506_zap.mdt|2945f21b47cf35bf22d8cb68e937c34ea64212c0
 vendor/firmware/a530_pfp.fw|448f9db8271fefb08348cbc50409e8e95bd93f78
 vendor/firmware/a530_pm4.fw|5741a28752355b478d455635bab008028ff7e1c6
 
+# Hotword enrollment from OnePlus 10 Pro
+product/priv-app/HotwordEnrollmentOKGoogleHEXAGON/HotwordEnrollmentOKGoogleHEXAGON.apk|651c7057cff9b458ceb63c36897412b8649bc7eb
+product/priv-app/HotwordEnrollmentXGoogleHEXAGON/HotwordEnrollmentXGoogleHEXAGON.apk|8e3b32736768f240f608c9ae1973c2fb68c0698e
+product/etc/permissions/com.android.hotwordenrollment.okgoogle.xml|f117af94b75a62805f05c50c0dc65bdcb7a1ca6a
+product/etc/sysconfig/com.android.hotwordenrollment.common.util.xml|52b6a326e59e543daac9b8d6e960654095c0fb6b
+product/framework/com.android.hotwordenrollment.common.util.jar|a418f5697951468fb93788b6e92d2912e7ae7149
+
 # Ipacm - from daisy
 vendor/bin/ipacm-diag|9300f8da22941c2bfacc2ff96f83f2beebd4dcc1
 
