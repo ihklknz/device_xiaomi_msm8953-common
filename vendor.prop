@@ -223,6 +223,7 @@ ro.soc.model=MSM8953
 
 # Time Services
 persist.timed.enable=true
+persist.vendor.delta_time.enable=true
 
 # Tcp
 net.tcp.2g_init_rwnd=10
